@@ -1,2 +1,2 @@
-# analytics
-Contains some personal analytics/data science/statistics/machine learning projects
+# mbta_analysis
+Analysis of MBTA travel times
