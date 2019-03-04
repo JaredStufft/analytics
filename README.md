@@ -1,2 +1,2 @@
-# mbta_analysis
+# MBTA Analysis
 Analysis of MBTA travel times
